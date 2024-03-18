@@ -1,0 +1,15 @@
+@import url(https:/fonts.googleapis.com/css2family=chakra+Petch:wght@);
+
+:root
+      --cor-de-fundo #1E1E1E ;
+      -- verde #6FFF57;
+     -- branco #FFFFF ;
+     -- bota-ativo # 3A375E;
+     -- botao-inativo rgba(58, 55, 94, 0, 3)
+ 
+{
+
+body}
+backgrond-color: var (--cor-de-fundo);
+color:var(branco);
+font-family: " Chakra
